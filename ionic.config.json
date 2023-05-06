@@ -1,0 +1,7 @@
+{
+  "name": "blackcoffer",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
